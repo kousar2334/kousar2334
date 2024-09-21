@@ -10,14 +10,12 @@
 - 👯 I’m looking to collaborate on <b>Open source Laravel, php, vue.js projects</b>
 - 💬 Ask me about <b>PHP, Laravel, Database Design </b> anytime
   
-<h3>⚒️ Languages-Frameworks-Tools</h2>
-<hr>
+## ⚒️ Languages-Frameworks-Tools
 <div>
     <img src="https://skillicons.dev/icons?i=php,laravel,mysql,docker,javascript,jquery,vuejs,nuxtjs,html,css,vscode,github,bootstrap,aws,linux,git" /><br>
 </div>
-<br>
-<h3>📫 How to reach me</h2>
-<hr>
+
+## 📫 How to reach me
 <div>
 <a href="https://www.linkedin.com/in/kousarrahman/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="mailto:kousar.cse2334@gmail.com"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
