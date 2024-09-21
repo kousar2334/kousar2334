@@ -13,8 +13,7 @@
 <h3>⚒️ Languages-Frameworks-Tools</h2>
 <hr>
 <div>
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,docker,javascript,jquery,vuejs,nuxtjs" />
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,bootstrap,aws,linux,git" /><br>
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,docker,javascript,jquery,vuejs,nuxtjs,html,css,vscode,github,bootstrap,aws,linux,git" /><br>
 </div>
 <br>
 <h3>📫 How to reach me</h2>
