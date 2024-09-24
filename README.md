@@ -10,13 +10,26 @@
   
 ## ⚒️ Languages-Frameworks-Tools
 <div>
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,docker,javascript,jquery,vuejs,nuxtjs,html,css,vscode,github,bootstrap,aws,linux,git" /><br>
+    <img src="https://img.shields.io/badge/Php-4F5B93?logo=php&logoColor=white&style=for-the-badge" height="30" alt="php" />
+    <img src="https://img.shields.io/badge/Laravel-F9322C?logo=laravel&logoColor=white&style=for-the-badge" height="30" alt="laravel" />
+    <img src="https://img.shields.io/badge/MySql-3E6E93?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="Mysql" />
+    <img src="https://img.shields.io/badge/Javascript-f0db4f?logo=javascript&logoColor=white&style=for-the-badge" height="30" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/JQuery-0769ad?logo=jquery&logoColor=white&style=for-the-badge" height="30" alt="Jquery" />
+    <img src="https://img.shields.io/badge/Vue.js-41b883?logo=vue.js&logoColor=white&style=for-the-badge" height="30" alt="Vuejs" />
+    <img src="https://img.shields.io/badge/Nuxt.js-41b883?logo=nuxt.js&logoColor=white&style=for-the-badge" height="30" alt="Nuxtjs" />
+    <img src="https://img.shields.io/badge/Html-F06529?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="Html" />
+    <img src="https://img.shields.io/badge/Css-2965f1?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="CSS" />
+    <img src="https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Github-24292e?logo=github&logoColor=white&style=for-the-badge" height="30" alt="Github" />
+    <img src="https://img.shields.io/badge/Linux-01335d?logo=linux&logoColor=white&style=for-the-badge" height="30" alt="Linux" />
+    <img src="https://img.shields.io/badge/Aws-ff9900?logo=amazon&logoColor=white&style=for-the-badge" height="30" alt="Aws" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker"/>
 </div>
 
 ## 📫 How to reach me
 <div>
-<a href="https://www.linkedin.com/in/kousarrahman/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="mailto:kousar.cse2334@gmail.com"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-<a href="https://www.facebook.com/kousarrahman"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="https://www.linkedin.com/in/kousarrahman/"><img src="https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="Linkedin" /></a>
+<a href="mailto:kousar.cse2334@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" height="30" alt="Gmail" /></a>
+<a href="https://www.facebook.com/kousarrahman"><img src="https://img.shields.io/badge/Facebook-3b5998?logo=facebook&logoColor=white&style=for-the-badge" height="30" alt="Facebook" /></a>
 </div>
 <br />
