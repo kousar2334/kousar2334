@@ -1,6 +1,4 @@
 ## Hi there 👋 
-
-**kousar2334/kousar2334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p>
   I'm <b>Kousar Rahman</b>, a Software Engineer with 5 years of experience working with PHP, Laravel,  Vue.js, Nuxtjs, and MySQL. My expertise lies in building advanced web applications using these technologies, with a strong foundation in software development best practices. I am proficient in PHP programming with the Laravel framework, front-end development using Vue.js, and database management using MySQL.
 </p>
