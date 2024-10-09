@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/Linux-01335d?logo=linux&logoColor=white&style=for-the-badge" height="30" alt="Linux" />
     <img src="https://img.shields.io/badge/Aws-ff9900?logo=amazon&logoColor=white&style=for-the-badge" height="30" alt="Aws" />
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker"/>
+    <img src="https://img.shields.io/badge/Redis-ff4438?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis"/>
 </div>
 
 ## 📫 How to reach me
