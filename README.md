@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/Php-4F5B93?logo=php&logoColor=white&style=for-the-badge" height="30" alt="php" />
     <img src="https://img.shields.io/badge/Laravel-F9322C?logo=laravel&logoColor=white&style=for-the-badge" height="30" alt="laravel" />
     <img src="https://img.shields.io/badge/MySql-3E6E93?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="Mysql" />
+    <img src="https://img.shields.io/badge/Redis-ff4438?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis"/>
+    <img src="https://img.shields.io/badge/PostgreeSql-336791?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgreesql"/>
     <img src="https://img.shields.io/badge/Javascript-f0db4f?logo=javascript&logoColor=white&style=for-the-badge" height="30" alt="JavaScript" />
     <img src="https://img.shields.io/badge/JQuery-0769ad?logo=jquery&logoColor=white&style=for-the-badge" height="30" alt="Jquery" />
     <img src="https://img.shields.io/badge/Vue.js-41b883?logo=vue.js&logoColor=white&style=for-the-badge" height="30" alt="Vuejs" />
@@ -24,7 +26,6 @@
     <img src="https://img.shields.io/badge/Linux-01335d?logo=linux&logoColor=white&style=for-the-badge" height="30" alt="Linux" />
     <img src="https://img.shields.io/badge/Aws-ff9900?logo=amazon&logoColor=white&style=for-the-badge" height="30" alt="Aws" />
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker"/>
-    <img src="https://img.shields.io/badge/Redis-ff4438?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis"/>
 </div>
 
 ## 📫 How to reach me
