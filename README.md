@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/Javascript-f0db4f?logo=javascript&logoColor=white&style=for-the-badge" height="30" alt="JavaScript" />
     <img src="https://img.shields.io/badge/JQuery-0769ad?logo=jquery&logoColor=white&style=for-the-badge" height="30" alt="Jquery" />
     <img src="https://img.shields.io/badge/Vue.js-41b883?logo=vue.js&logoColor=white&style=for-the-badge" height="30" alt="Vuejs" />
+   <img src="https://img.shields.io/badge/React.js-41b883?logo=react.js&logoColor=white&style=for-the-badge" height="30" alt="Vuejs" />
     <img src="https://img.shields.io/badge/Nuxt.js-41b883?logo=nuxt.js&logoColor=white&style=for-the-badge" height="30" alt="Nuxtjs" />
     <img src="https://img.shields.io/badge/Html-F06529?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="Html" />
     <img src="https://img.shields.io/badge/Css-2965f1?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="CSS" />
