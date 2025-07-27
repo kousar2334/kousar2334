@@ -4,7 +4,7 @@
 </p>
 
 - 🔭 I’m currently working at <b>Themelooks Ltd</b> as <b>Software Engineer</b>
-- 🌱 I’m currently learning <b>Node.js</b>
+- 🌱 I’m currently learning <b>Dart</b>
 - 👯 I’m looking to collaborate on <b>Open source Laravel, php, vue.js projects</b>
 - 💬 Ask me about <b>PHP, Laravel, Database Design </b> anytime
   
@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/badge/Javascript-f0db4f?logo=javascript&logoColor=white&style=for-the-badge" height="30" alt="JavaScript" />
     <img src="https://img.shields.io/badge/JQuery-0769ad?logo=jquery&logoColor=white&style=for-the-badge" height="30" alt="Jquery" />
     <img src="https://img.shields.io/badge/Vue.js-41b883?logo=vue.js&logoColor=white&style=for-the-badge" height="30" alt="Vuejs" />
-   <img src="https://img.shields.io/badge/React.js-41b883?logo=react.js&logoColor=white&style=for-the-badge" height="30" alt="Vuejs" />
     <img src="https://img.shields.io/badge/Nuxt.js-41b883?logo=nuxt.js&logoColor=white&style=for-the-badge" height="30" alt="Nuxtjs" />
+   <img src="https://img.shields.io/badge/React.js-3ac5db?logo=react.js&logoColor=white&style=for-the-badge" height="30" alt="React" />
     <img src="https://img.shields.io/badge/Html-F06529?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="Html" />
     <img src="https://img.shields.io/badge/Css-2965f1?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="CSS" />
     <img src="https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="Bootstrap" />
