@@ -1,38 +1,51 @@
-## Hi there 👋 
-<p>
-  I'm <b>Kousar Rahman</b>, a Software Engineer with 5 years of experience working with PHP, Laravel,  Vue.js, Nuxtjs, and MySQL. My expertise lies in building advanced web applications using these technologies, with a strong foundation in software development best practices. I am proficient in PHP programming with the Laravel framework, front-end development using Vue.js, and database management using MySQL.
-</p>
+## ⚒️ Languages, Frameworks & Tools
 
-- 🔭 I’m currently working at <b>Themelooks Ltd</b> as <b>Software Engineer</b>
-- 🌱 I’m currently learning <b>Dart</b>
-- 👯 I’m looking to collaborate on <b>Open source Laravel, php, vue.js projects</b>
-- 💬 Ask me about <b>PHP, Laravel, Database Design </b> anytime
-  
-## ⚒️ Languages-Frameworks-Tools
+### 💻 Programming Languages
 <div>
-    <img src="https://img.shields.io/badge/Php-4F5B93?logo=php&logoColor=white&style=for-the-badge" height="30" alt="php" />
-    <img src="https://img.shields.io/badge/Laravel-F9322C?logo=laravel&logoColor=white&style=for-the-badge" height="30" alt="laravel" />
-    <img src="https://img.shields.io/badge/MySql-3E6E93?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="Mysql" />
-    <img src="https://img.shields.io/badge/Redis-ff4438?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis"/>
-    <img src="https://img.shields.io/badge/PostgreeSql-336791?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgreesql"/>
-    <img src="https://img.shields.io/badge/Javascript-f0db4f?logo=javascript&logoColor=white&style=for-the-badge" height="30" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/JQuery-0769ad?logo=jquery&logoColor=white&style=for-the-badge" height="30" alt="Jquery" />
-    <img src="https://img.shields.io/badge/Vue.js-41b883?logo=vue.js&logoColor=white&style=for-the-badge" height="30" alt="Vuejs" />
-    <img src="https://img.shields.io/badge/Nuxt.js-41b883?logo=nuxt.js&logoColor=white&style=for-the-badge" height="30" alt="Nuxtjs" />
-   <img src="https://img.shields.io/badge/React.js-3ac5db?logo=react.js&logoColor=white&style=for-the-badge" height="30" alt="React" />
-    <img src="https://img.shields.io/badge/Html-F06529?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="Html" />
-    <img src="https://img.shields.io/badge/Css-2965f1?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="CSS" />
-    <img src="https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Github-24292e?logo=github&logoColor=white&style=for-the-badge" height="30" alt="Github" />
-    <img src="https://img.shields.io/badge/Linux-01335d?logo=linux&logoColor=white&style=for-the-badge" height="30" alt="Linux" />
-    <img src="https://img.shields.io/badge/Aws-ff9900?logo=amazon&logoColor=white&style=for-the-badge" height="30" alt="Aws" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
 </div>
 
-## 📫 How to reach me
+### 🚀 Backend Development
 <div>
-<a href="https://www.linkedin.com/in/kousarrahman/"><img src="https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="Linkedin" /></a>
-<a href="mailto:kousar.cse2334@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" height="30" alt="Gmail" /></a>
-<a href="https://www.facebook.com/kousarrahman"><img src="https://img.shields.io/badge/Facebook-3b5998?logo=facebook&logoColor=white&style=for-the-badge" height="30" alt="Facebook" /></a>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30" />
 </div>
-<br />
+
+### 🎨 Frontend Development
+<div>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" />
+</div>
+
+### 🗄️ Databases & Caching
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="30" />
+</div>
+
+### 🤖 AI & Emerging Technologies
+<div>
+  <img src="https://img.shields.io/badge/MCP_Server-6E56CF?style=for-the-badge&logo=anthropic&logoColor=white" height="30" />
+</div>
+
+### ⚙️ DevOps & Cloud
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" />
+</div>
+
+### 🔧 Tools & Version Control
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
+</div>
